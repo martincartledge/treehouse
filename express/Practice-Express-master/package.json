@@ -1,0 +1,20 @@
+{
+  "name": "practice-express",
+  "version": "1.0.0",
+  "description": "Practicing express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martincartledge/Practice-Express.git"
+  },
+  "author": "Martin Cartledge",
+  "license": "ISC",
+  "homepage": "https://github.com/martincartledge/Practice-Express",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0"
+  }
+}
