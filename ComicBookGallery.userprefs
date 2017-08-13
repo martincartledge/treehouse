@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D6F2DC2A-C756-43D2-A303-C3043B735CE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComicBookGallery Status">
+    <Files>
+      <File FileName="ComicBookGallery Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ComicBookGallery PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
