@@ -1,5 +1,7 @@
 # Treehouse Exercises
 
+### Redux
+
 ##### Javascript
 
 - [vanilla](https://github.com/martincartledge/treehouse/tree/vanilla)
