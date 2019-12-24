@@ -10,3 +10,4 @@
 - [react router](https://github.com/martincartledge/treehouse/tree/react-router)
 - [graphql](https://github.com/martincartledge/treehouse/tree/graphql)
 - [react hooks](https://github.com/martincartledge/treehouse/tree/react-hooks)
+- [redux](https://github.com/martincartledge/treehouse/tree/redux)
